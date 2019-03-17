@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_student" value="name:id;datatype:int,name:department;datatype:string,name:fname;datatype:string,name:regno;datatype:string,name:area;datatype:string,name:interest;datatype:int" />
+	<infoitem key="UD_st" value="name:id;datatype:int,name:department;datatype:string,name:fname;datatype:string,name:regno;datatype:string,name:area;datatype:string,name:interest;datatype:int" />
+	<infoitem key="UD_studen" value="name:id;datatype:int,name:department;datatype:string,name:fname;datatype:string,name:regno;datatype:string,name:area;datatype:string,name:interest;datatype:int" />
+	<infoitem key="UD_stu" value="name:id;datatype:int,name:department;datatype:string,name:fname;datatype:string,name:regno;datatype:string,name:area;datatype:string,name:interest;datatype:int" />
+	<infoitem key="UD_info" value="name:id;datatype:int,name:department;datatype:string,name:fname;datatype:string,name:regno;datatype:string,name:area;datatype:string,name:interest;datatype:string" />
+	<infoitem key="UD_INFO" value="name:id;datatype:int,name:department;datatype:string,name:fname;datatype:string,name:regno;datatype:string,name:area;datatype:string,name:interest;datatype:string" />
+</info>
